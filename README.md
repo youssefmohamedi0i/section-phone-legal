@@ -17,6 +17,7 @@
 - `PRIVACY_POLICY_AR.md`
 - `WARRANTY_POLICY_AR.md`
 - `RETURNS_REFUND_POLICY_AR.md`
+- `ACCOUNT_DELETION_REQUEST.md`
 
 ## ملاحظات
 - هذه مسودات تشغيلية موجهة لتجهيز التطبيق والرفع على GitHub.
