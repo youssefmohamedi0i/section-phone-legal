@@ -1,4 +1,4 @@
-# Section Phone
+# Mobiqo Phone
 
 ## المستندات القانونية
 
@@ -13,13 +13,13 @@
 
 ## معلومات التواصل
 
-**Section Phone**
+**Mobiqo Phone**
 
 العنوان:
 8 متفرع من ش عبده باشا، العباسية، القاهرة، جمهورية مصر العربية
 
 البريد الإلكتروني:
-[Section.Phone.Store@gmail.com](mailto:Section.Phone.Store@gmail.com)
+[Section.Phone.Store@gmail.com](mailto:Mobiqo.Phone@gmail.com)
 
 رقم الهاتف:
 01505637646
@@ -37,8 +37,8 @@
 
 ---
 
-Section Phone - Nine Store
+Mobiqo Phone - Nine Store
 
-Email: [Section.Phone.Store@gmail.com](mailto:Section.Phone.Store@gmail.com)
+Email: [Mobiqo.Phone@gmail.com](mailto:Section.Phone.Store@gmail.com)
 
 Phone: 01505637646
