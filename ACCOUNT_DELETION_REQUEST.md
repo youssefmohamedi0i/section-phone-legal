@@ -1,9 +1,9 @@
 # طلب حذف الحساب
-آخر تحديث: 14 يونيو 2026
+آخر تحديث: 18 يونيو 2026
 
-## Section Phone - حذف الحساب والبيانات
+## Mobiqo Phone - حذف الحساب والبيانات
 
-في Section Phone نحترم خصوصية المستخدمين وحقهم في التحكم في بياناتهم الشخصية.
+في Mobiqo Phone نحترم خصوصية المستخدمين وحقهم في التحكم في بياناتهم الشخصية.
 
 إذا كنت ترغب في حذف حسابك وبياناتك الشخصية المرتبطة بالتطبيق بشكل دائم، يمكنك القيام بذلك بإحدى الطرق التالية:
 
@@ -45,7 +45,7 @@ Section Phone
 8 متفرع من ش عبده باشا، العباسية، القاهرة، جمهورية مصر العربية
 
 البريد الإلكتروني:
-Section.Phone.Store@gmail.com
+Mobiqo.Phone@gmail.com
 
 رقم الهاتف:
 01505637646
@@ -53,7 +53,7 @@ Section.Phone.Store@gmail.com
 ---
 
 # Account Deletion Request
-Last Updated: 14 June 2026
+Last Updated: 18 June 2026
 
 ## Section Phone - Account and Data Deletion
 
@@ -74,7 +74,7 @@ If the feature is available in your version of the application:
 
 You may request account deletion by contacting us at:
 
-Section.Phone.Store@gmail.com
+Mobiqo.Phone@gmail.com
 
 Please send the request using the same email address associated with your account whenever possible.
 
@@ -93,13 +93,13 @@ Certain information may be retained where required by law, for security purposes
 
 ### Contact Information
 
-Section Phone
+Mobiqo Phone
 
 Address:
 8 Metafare3 Men Sharia Abdo Pasha, Abbassia, Cairo, Egypt
 
 Email:
-Section.Phone.Store@gmail.com
+Mobiqo.Phone@gmail.com
 
 Phone:
 01505637646
